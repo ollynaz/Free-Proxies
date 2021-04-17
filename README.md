@@ -32,6 +32,7 @@ https://dy.vnr.cc/
 
 https://proxypoolsstest.herokuapp.com/
 
+https://proxypool.ednovas.xyz/
 
 
 ## 订阅转换器
